@@ -33,3 +33,16 @@
         flex-wrap: wrap;
     justify-content: center;
 }
+.seti
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-left: 70%;
+}
+.footer
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
